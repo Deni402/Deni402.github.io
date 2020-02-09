@@ -48,7 +48,11 @@ nav {
 }
 
 .bio {
-  
+  display: block;
+  margin-left: 490px;
+  margin-right: 100px;
+  margin-top: -200px;
+  width: 50%;
 }
 
 #logo-container {
