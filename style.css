@@ -62,8 +62,6 @@ nav {
   background-image: linear-gradient(to left, rgb(248, 151, 248), rgb(179, 113, 226), rgb(184, 51, 218), rgb(201, 108, 32), rgb(206, 135, 30), rgb(255, 137, 82), rgb(122, 37, 37));   -webkit-background-clip: text;
   color: transparent;
   transition: 0.6s;
-  opacity: 0.6s;
-   
 }
 .skill {
   display: block;
@@ -80,14 +78,39 @@ nav {
 .icons {
   display: block;
   text-align: center;
-  margin: 50px;
+  margin-top: 5px;
   padding: 50px;
   font-size: 60px; 
+}
+
+.hover-icons:hover {
+  animation: shake 0.6s infinite;
+  }
+  @keyframes shake {
+  0% {
+  transform: translate(0px, 0px) rotate(0deg);
+  }
+  25% {
+  transform: translate(1px, 1px) rotate(1deg);
+  }
+  50% {
+  transform: translate(-1px, -1px) rotate(-1deg);
+  }
+  75% {
+  transform: translate(2px, -1px) rotate(2deg);
+  }
+  100% {
+  transform: translate(-1px, 1px) rotate(-1deg);
+  }
 }
 .name-icons{
   font-size: 30px;
   margin: 30px;
   font-family: 'Open Sans Condensed', sans-serif;
+}
+.name-icons:hover{
+  color: rgb(12, 170, 130);
+  transition: 0.6s;
 }
 #logo-container {
   position: fixed;
