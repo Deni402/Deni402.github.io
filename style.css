@@ -82,8 +82,12 @@ nav {
   text-align: center;
   margin: 50px;
   padding: 50px;
-  font-size: 50px; 
-  
+  font-size: 60px; 
+}
+.name-icons{
+  font-size: 30px;
+  margin: 30px;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #logo-container {
   position: fixed;
