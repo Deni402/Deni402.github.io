@@ -71,6 +71,16 @@ nav {
   font-size: 50px;
   color: black;
 }
+.name-project {
+  font-size: 30px;
+  margin: 100px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+.name-project:hover{
+  color: rgb(218, 95, 13);
+  transition: 0.6s;
+}
 .skill:hover {
   color: rgb(240, 203, 102);
   transition: 0.6s;
@@ -107,6 +117,7 @@ nav {
   font-size: 30px;
   margin: 30px;
   font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
 }
 .name-icons:hover{
   color: rgb(12, 170, 130);
