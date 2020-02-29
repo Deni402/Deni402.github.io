@@ -112,6 +112,17 @@ nav {
   color: rgb(12, 170, 130);
   transition: 0.6s;
 }
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid rgb(160, 156, 156);
+  margin: 1em 0;
+  padding: 0;
+}
+
+
 #logo-container {
   position: fixed;
   left: 0.4em;
