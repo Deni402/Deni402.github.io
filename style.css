@@ -135,6 +135,15 @@ hr {
   margin-right: 100px;
 }
 
+.img {
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: 1000px;
+  margin-left: 60px;
+  width: 50%; 
+  box-shadow: 10px 10px 10px rgb(211, 210, 210) ;
+  border: 2px solid rgb(0, 0, 0);
+} 
 
 #logo-container {
   position: fixed;
