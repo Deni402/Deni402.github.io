@@ -24,6 +24,7 @@ h1, h2, h3, p, a {
 a {
   color: #bcbcbc;
   text-decoration: none;
+  padding: 7px;
 }
 
 a:hover {
@@ -51,9 +52,9 @@ nav {
 
 .bio {
   display: block;
-  margin-left: 490px;
+  margin-left: 590px;
   margin-right: 100px;
-  margin-top: -300px;
+  margin-top: -350px;
   width: 50%;
   font-family: 'Open Sans Condensed', sans-serif;
   color: rgb(78, 77, 77);
@@ -74,14 +75,37 @@ nav {
   color: black;
   
 }
-.name-project {
+.name-project1 {
   font-size: 30px;
-  margin: 100px;
+  margin-top: 100px;
+  margin-right: 1000px;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
-.name-project:hover{
+.name-project1:hover{
   color: rgb(218, 95, 13);
+  transition: 0.6s;
+}
+.name-project2 {
+  font-size: 30px;
+  margin-top: -37px;
+  margin-right: 45px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+.name-project2:hover{
+  color: rgb(221, 38, 38);
+  transition: 0.6s;
+}
+.name-project3 {
+  font-size: 30px;
+  margin-top: -37px;
+  margin-left: 1000px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+.name-project3:hover{
+  color: rgb(196, 105, 180);
   transition: 0.6s;
 }
 .skill:hover {
@@ -141,12 +165,18 @@ hr {
 .img {
   margin-left: 40px;
   margin-top: 10px;
-  margin-bottom: 100px;
+  margin-bottom: 10px;
   margin-left: 60px;
   width: 50%; 
-  /* box-shadow: 2px 2px 9px rgb(255, 255, 255) ; */
   border: 1px solid rgb(0, 0, 0);
 } 
+
+.arrow { 
+ font-size: 60px;
+ /* display: flex; */
+ text-align: center;
+ margin-top: 1px;
+}
 
 #logo-container {
   position: fixed;
@@ -204,7 +234,7 @@ hr {
     transform-origin: 0px 0px;
     z-index: 2;
     transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-                background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+    background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
                 opacity 0.55s ease;
   }
   
