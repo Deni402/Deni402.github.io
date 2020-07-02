@@ -141,6 +141,12 @@ nav {
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
+.project1 {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 50px;
+  /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
+}
 
 .btn2 {
   font-size: 25px;
@@ -151,6 +157,13 @@ nav {
   text-align: center;
 }
 
+.project2 {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 50px;
+  /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
+}
+
 .btn3 {
   font-size: 25px;
   padding: 80px;
@@ -158,6 +171,12 @@ nav {
   margin-left: 800px;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
+}
+.project3 {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 50px;
+  /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
 }
 
 .btn4 {
@@ -168,6 +187,12 @@ nav {
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
+.project4 {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 50px;
+  /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
+}
 
 .btn5 {
   font-size: 25px;
@@ -176,6 +201,13 @@ nav {
   margin-left: -50px;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
+}
+
+.project5 {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 50px;
+  /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
 }
 .skill:hover {
   color: rgb(240, 203, 102);
