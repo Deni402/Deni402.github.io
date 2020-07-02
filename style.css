@@ -143,9 +143,15 @@ nav {
 }
 .project1 {
   text-decoration: none;
-  border: 1px solid black;
   padding: 50px;
   /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
+}
+
+.project1:hover {
+  background-image: linear-gradient(to left, rgb(248, 151, 248), rgb(179, 113, 226), rgb(184, 51, 218), rgb(201, 108, 32), rgb(206, 135, 30), rgb(255, 137, 82), rgb(122, 37, 37));   -webkit-background-clip: text;
+  color: transparent;
+  transition: 0.6s;
+  box-shadow: 10px 10px 10px rgb(235, 228, 228) ;
 }
 
 .btn2 {
@@ -159,9 +165,14 @@ nav {
 
 .project2 {
   text-decoration: none;
-  border: 1px solid black;
   padding: 50px;
   /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
+}
+.project2:hover {
+  background-image: linear-gradient(to left, rgb(248, 151, 248), rgb(179, 113, 226), rgb(184, 51, 218), rgb(201, 108, 32), rgb(206, 135, 30), rgb(255, 137, 82), rgb(122, 37, 37));   -webkit-background-clip: text;
+  color: transparent;
+  transition: 0.6s;
+  box-shadow: 10px 10px 10px rgb(235, 228, 228) ;
 }
 
 .btn3 {
@@ -174,9 +185,14 @@ nav {
 }
 .project3 {
   text-decoration: none;
-  border: 1px solid black;
   padding: 50px;
   /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
+}
+.project3:hover {
+  background-image: linear-gradient(to left, rgb(248, 151, 248), rgb(179, 113, 226), rgb(184, 51, 218), rgb(201, 108, 32), rgb(206, 135, 30), rgb(255, 137, 82), rgb(122, 37, 37));   -webkit-background-clip: text;
+  color: transparent;
+  transition: 0.6s;
+  box-shadow: 10px 10px 10px rgb(235, 228, 228) ;
 }
 
 .btn4 {
@@ -189,9 +205,14 @@ nav {
 }
 .project4 {
   text-decoration: none;
-  border: 1px solid black;
   padding: 50px;
   /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
+}
+.project4:hover {
+  background-image: linear-gradient(to left, rgb(248, 151, 248), rgb(179, 113, 226), rgb(184, 51, 218), rgb(201, 108, 32), rgb(206, 135, 30), rgb(255, 137, 82), rgb(122, 37, 37));   -webkit-background-clip: text;
+  color: transparent;
+  transition: 0.6s;
+  box-shadow: 10px 10px 10px rgb(235, 228, 228) ;
 }
 
 .btn5 {
@@ -205,9 +226,14 @@ nav {
 
 .project5 {
   text-decoration: none;
-  border: 1px solid black;
   padding: 50px;
   /* background-image: url("https://i.imgur.com/QyGZcw7.png"); */
+}
+.project5:hover {
+  background-image: linear-gradient(to left, rgb(248, 151, 248), rgb(179, 113, 226), rgb(184, 51, 218), rgb(201, 108, 32), rgb(206, 135, 30), rgb(255, 137, 82), rgb(122, 37, 37));   -webkit-background-clip: text;
+  color: transparent;
+  transition: 0.6s;
+  box-shadow: 10px 10px 10px rgb(235, 228, 228) ;
 }
 .skill:hover {
   color: rgb(240, 203, 102);
