@@ -21,13 +21,13 @@ h1, h2, h3, p, a {
   font-weight: 300;
 }
 
-a {
+.makeup {
   color: #bcbcbc;
   text-decoration: none;
   padding: 7px;
 }
 
-a:hover {
+.makeup:hover {
   color: pink;
   transition: 0.6s;
   box-shadow: 2px 5px 10px rgb(235, 228, 228) ;
@@ -112,7 +112,7 @@ nav {
 .name-project4 {
   font-size: 30px;
   margin-top: 100px;
-  margin-right: 1000px;
+  margin-right: 850px;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
@@ -123,7 +123,7 @@ nav {
 
 .name-project5 {
   font-size: 30px;
-  margin-top: -37px;
+  margin-top: -250px;
   margin-right: 45px;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
@@ -136,8 +136,8 @@ nav {
 .btn1 {
   font-size: 25px;
   padding: 80px;
-  margin-top: 10px;
-  margin-left: 50px;
+  margin-top: -5px;
+  margin-left: -860px;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
@@ -145,8 +145,8 @@ nav {
 .btn2 {
   font-size: 25px;
   padding: 80px;
-  margin-top: 12px;
-  margin-left: 480px;
+  margin-top: 10px;
+  margin-left: -50px;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
@@ -154,8 +154,26 @@ nav {
 .btn3 {
   font-size: 25px;
   padding: 80px;
-  margin-top: 12px;
-  margin-left: 900px;
+  margin-top: 10px;
+  margin-left: 800px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+
+.btn4 {
+  font-size: 25px;
+  padding: 80px;
+  margin-top: -5px;
+  margin-left: -860px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+
+.btn5 {
+  font-size: 25px;
+  padding: 80px;
+  margin-top: 10px;
+  margin-left: -50px;
   font-family: 'Open Sans Condensed', sans-serif;
   text-align: center;
 }
